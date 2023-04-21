@@ -25,7 +25,7 @@ header {
     display: flex;
 	align-items: center;
 	justify-content: space-between;
-	padding: 0px;
+	padding: 20px;
 }
 
 h1 {
@@ -47,9 +47,9 @@ nav li {
 button{
     background: linear-gradient(to right,#b7b7b7, #b1b3b1);
     /* background-color: beige; */
-    margin:20px
+/*     margin:20px */
     padding: 10px;
-    border-radius: 10px !important;
+    border-radius: 5px !important;
     color: #4CAF50;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 	/* background-clip: text;
@@ -59,7 +59,7 @@ button{
 
 button:hover {
   /* opacity: 1; */
-  background-color: green; /* Green */
+  background-color: rgb(7, 7, 7); /* Green */
   color: white;
 }
 

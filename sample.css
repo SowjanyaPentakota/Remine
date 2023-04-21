@@ -48,7 +48,7 @@ button{
     background: linear-gradient(to right,#b7b7b7, #b1b3b1);
     /* background-color: beige; */
     padding: 10px;
-    border-radius: 10px;
+    border-radius: 10px !important;
     color: #4CAF50;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 	/* background-clip: text;

@@ -47,6 +47,7 @@ nav li {
 button{
     background: linear-gradient(to right,#b7b7b7, #b1b3b1);
     /* background-color: beige; */
+    margin:20px
     padding: 10px;
     border-radius: 10px !important;
     color: #4CAF50;

@@ -47,10 +47,10 @@ nav li {
 button{
     background: linear-gradient(to right,#b7b7b7, #b1b3b1);
     /* background-color: beige; */
-/*     margin:20px */
-    padding: 10px;
+    padding: 5px;
+    /* padding-top: 10px; */
     border-radius: 10px !important;
-    color: #4CAF50;
+    color: #0a0b0a;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 	/* background-clip: text;
 	-webkit-background-clip: text;
@@ -61,6 +61,7 @@ button:hover {
   /* opacity: 1; */
   background-color: rgb(7, 7, 7); /* Green */
   color: white;
+  /* border-radius: 20px; */
 }
 
 * {box-sizing: border-box;}
@@ -118,6 +119,7 @@ img {vertical-align:auto;}
   transition-duration: 0.5s;
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
   /* box-shadow:0 0 16px 0 green, 0 0 20px 0 green; */
+  border-radius: 10px;
 }
 .button:hover {
   background-color: #4CAF50; /* Green */
